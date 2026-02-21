@@ -1,0 +1,5 @@
+{
+  "name": "ValueBet Oracle",
+  "description": "Professional sports betting analyst for identifying +EV value bets using real-time odds and AI fair-odds estimation.",
+  "requestFramePermissions": []
+}
